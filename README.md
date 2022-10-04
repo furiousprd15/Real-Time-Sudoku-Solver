@@ -16,6 +16,8 @@ then open pycharm and Run the file
  * Keras
  
 ## Demonstration: 
-<img src="IMG3.png"  width="450" height="300">
+<img src="IMG3.png"  width="300" height="300">
+<br>
+**fig 1** Automated solving of sudoku puzzle uisng python after puzzle recognition using openCV and keras
 
 
