@@ -15,7 +15,7 @@ then open pycharm and Run the file
  * Numpy
  * Keras
  
- 
-<img src="IMG2.png"  width="450" height="300">
+## Demonstration: 
+<img src="IMG3.png"  width="450" height="300">
 
 
