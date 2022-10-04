@@ -16,6 +16,6 @@ then open pycharm and Run the file
  * Keras
  
  
-<img src="IMG1.png"  width="500" height="300">
+<img src="IMG2.png"  width="450" height="300">
 
 
