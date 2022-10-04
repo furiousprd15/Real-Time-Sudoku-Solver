@@ -3,8 +3,8 @@
 ## How to run:
 
 
-IDE required- Pycharm Community Edition
-copy the folder to C:/user/username/pycharmprojects/
+IDE required- Pycharm Community Edition<br>
+Copy the folder to C:/user/username/pycharmprojects/
 then open pycharm and Run the file
 
 ## Requirments:
